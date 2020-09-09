@@ -15,6 +15,6 @@ router.get('/',function(req,res){
 //add the router
 app.use('/', router);
 
-app.listen(process.env.port || 8080);
+app.listen(process.env.port || 5000);
 
-console.log('Running at Port 3000', __dirname, publicDirectoryPath);
+console.log('Running at Port 5000', __dirname, publicDirectoryPath);
