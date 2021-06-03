@@ -7,4 +7,4 @@ Backend - Neo4J Graph Database, nodejs
 
 AGILE
 
-fit for *any* purpose
+fit for any purpose
